@@ -1,6 +1,6 @@
 A/Injection Machine
 --------------------------------------------------------------------------
-----------------       Hydrolic Valve inputs       -----------------------
+----------------       Hydrolic Valve inputs       -------------11 Piece--
 --------------------------------------------------------------------------
 S1 - Main Hydrolic valve 
 
@@ -13,14 +13,42 @@ S7 - SuckBack (GeriEmiş)
 S8 - Charge (Şarj/MalAlma/RawMeterialUpload)
 
 S10 - Eject 
-S24 - Core in (Maça Açık)
-S25 - Core Out (Maça Kapalı)
-
+S24 - Core in (Maça Açık) /////Useless-Kullanıma Gerek Yok
+S25 - Core Out (Maça Kapalı) /////Useless-Kullanıma Gerek Yok
 --------------------------------------------------------------------------
-----------------             Basic          ------------------------------
+----------------             Basic          -------------------3 Piece----
 --------------------------------------------------------------------------
+X1 - Auto (Otomatik)
+X2 - Manual (El-Manuel)
+X3 - Alarm 
+--------------------------------------------------------------------------
+----------------             Sensors  ı/o   --------------------19 Piece---
+--------------------------------------------------------------------------
+/Downside
+B34 - Oil Tempeture
+S13 - ----Unknow-----
+B37 - ---Unknow---
+S20 - ---Unknow---
+-------------------------------------------------------------------------
+/Left-Center Clamp Side
+B20 - Door (Kapı)
+B23 - Clamp Open Stop (Mengene açılması Durdurma Limitleme)
+B25 - ---Unknow Translate Later----
+B30 - Eject Forward (İtici son limit)
+B31 - Eject Backward (İtici geri Limit Son yerinde)
+B33 - Core in (Maça içeride)/////Useless-Kullanıma Gerek Yok
+B34 - Core Out (Maça dışarıda)/////Useless-Kullanıma Gerek Yok
+B45 - ---Unknow Translate Later----
+B44 - ---Unknow Translate Later----
+------------------------------------------------------------------------
+RightSide-Group Side
+B61 - Clamp Close Moving Plate Closed /Security (Hareketli Plakanın Kalıp Kapandığında Sinyal vermesi)
+B63 - Ready Tempeture Mould/Heater (Isıtıcıların hazır olması)
+B26 - İnjection Hold Position (Ütüleme Limiti)
+B27 - Raw meterial size (Hammadde/Mal alma Limiti)
+B28 - SuckBack (Geri emiş limiti)
+B29 - Grup Back Forward (Grup İleri geri Limit)
+-----------------------------------------------------------------------
 
-X1 - Auto
-X2 - Manual
-
+Total İnput Now : 33 
 
