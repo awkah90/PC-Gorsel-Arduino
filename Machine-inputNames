@@ -1,0 +1,26 @@
+A/Injection Machine
+--------------------------------------------------------------------------
+----------------       Hydrolic Valve inputs       -----------------------
+--------------------------------------------------------------------------
+S1 - Main Hydrolic valve 
+
+S2 - Clamp Close (Mengene Kapat)
+S3 - Clamp Open (Mengene Aç)
+S4 - Group forward (Grup ileri)
+S5 - Group Backward (Grup Geri)
+S6 - İnjection (Enjeksiyon)
+S7 - SuckBack (GeriEmiş)
+S8 - Charge (Şarj/MalAlma/RawMeterialUpload)
+
+S10 - Eject 
+S24 - Core in (Maça Açık)
+S25 - Core Out (Maça Kapalı)
+
+--------------------------------------------------------------------------
+----------------             Basic          ------------------------------
+--------------------------------------------------------------------------
+
+X1 - Auto
+X2 - Manual
+
+
