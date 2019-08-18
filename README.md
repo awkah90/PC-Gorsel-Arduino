@@ -5,6 +5,6 @@
 Arduinoyu bilgisayara bağlayarak onu input device olarak görmesini sağlamak bu sayade Makinenin işleyişini gözle görülebilir şekilde
 dışarıdan izlenmesini sağlamak.
 
-Version 0.01
-
+İnjection or any machine input to arduino,
+PC viewing 
 Kemal
