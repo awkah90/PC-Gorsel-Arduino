@@ -7,4 +7,8 @@ dışarıdan izlenmesini sağlamak.
 
 İnjection or any machine input to arduino,
 PC viewing 
+
+/Inputlar
+I/O Sensörler
+Isı Göstergesi
 Kemal
