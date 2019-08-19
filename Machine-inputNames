@@ -50,10 +50,10 @@ B44 - ---Unknow Translate Later----
 RightSide-Group Side
 B61 - Clamp Close Moving Plate Closed /Security (Hareketli Plakanın Kalıp Kapandığında Sinyal vermesi)
 B63 - Ready Tempeture Mould/Heater (Isıtıcıların hazır olması)
-B26 - İnjection Hold Position (Ütüleme Limiti)
-B27 - Raw meterial size (Hammadde/Mal alma Limiti)
-B28 - SuckBack (Geri emiş limiti)
-B29 - Grup Back Forward (Grup İleri geri Limit)
+B26 - İnjection Holding pressure Position (Ütüleme Limiti)
+B27 - Screw Motor/Raw meterial size (Hammadde/Mal alma Limiti)
+B28 - injection Unit Retract/Group Backward Limit (Grup İleri geri Limit)
+B29 - Screw Retract Stop /Suckback (Geri emiş limiti) 
 -----------------------------------------------------------------------
 
 Total İnput Now : 36
