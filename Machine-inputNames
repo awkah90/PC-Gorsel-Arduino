@@ -39,13 +39,13 @@ S20 - ---Unknow---
 /Left-Center Clamp Side
 B20 - Door (Kapı)
 B23 - Clamp Open Stop (Mengene açılması Durdurma Limitleme)
-B25 - ---Unknow Translate Later----
+B25 - Ejector Reset Stroke
 B30 - Eject Forward (İtici son limit)
 B31 - Eject Backward (İtici geri Limit Son yerinde)
 B33 - Core in (Maça içeride)/////Useless-Kullanıma Gerek Yok
 B34 - Core Out (Maça dışarıda)/////Useless-Kullanıma Gerek Yok
-B45 - ---Unknow Translate Later----
-B44 - ---Unknow Translate Later----
+B45 - Mould Stop 
+B44 - Mould Open Stop 
 ------------------------------------------------------------------------
 RightSide-Group Side
 B61 - Clamp Close Moving Plate Closed /Security (Hareketli Plakanın Kalıp Kapandığında Sinyal vermesi)
