@@ -46,7 +46,7 @@
 
 void setup()
 {
-  for (int i = 2; i >= 8; i++)
+  for (int i = 23; i >= 52; i++)
   {
     pinMode(i, INPUT);
   }
