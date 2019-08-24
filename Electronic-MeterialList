@@ -1,13 +1,15 @@
 Machine Electronic Components
 
-Valves Working  24 Vdc + (Valfler 24 volt dc+ olarak çalışmaktadır.)
+Valves Working  24 Vdc + (Valfler 24 volt dc+ 1.7 amp. olarak çalışmaktadır.)
 
 Machine output is Transistor 
 
 Proximty switch Signal is 24 v 
-
-
-
+-----------------------------------------------------
+-----------Transistors---------------------------
+Bd 317 
+2n3055
+-------------------------------------------------------------
 
 
 
