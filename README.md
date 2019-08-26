@@ -12,3 +12,4 @@ PC viewing
 I/O Sensörler
 Isı Göstergesi
 Kemal
+https://www.kontrolkalemi.com/forum/konu/arduino-bilgisayar-i-o-interface-end%C3%BCstride-kullan%C4%B1m.128960/#post-831394
