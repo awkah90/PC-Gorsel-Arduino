@@ -1,0 +1,43 @@
+Injection Machine Valve Wire diagram 
+--------------------------------------------------------------------------
+---------Transistor Output/Hydrolic Valve Electric diagram------10 Piece--
+--------------------------------------------------------------------------
+S1 - Main Hydrolic valve 
+Brown-Kahve = 26
+Blue-Negative = 39 / S3(Mengene Aç'a Takılıyor.)(Clamp Open Parallel Wiring)
+
+S2 - Clamp Close (Mengene Kapat)
+Brown-Kahve = 27
+Blue-Negative = 110
+
+S3 - Clamp Open (Mengene Aç)
+Brown-Kahve = 39
+Blue-Negative = 110
+
+S4 - Group forward (Grup ileri)
+Brown-Kahve = 29
+Blue-Negative = 110
+
+S5 - Group Backward (Grup Geri)
+Brown-Kahve = 30
+Blue-Negative = 110
+
+S6 - İnjection (Enjeksiyon)
+Brown-Kahve = 31
+Blue-Negative = 110
+
+S7 - SuckBack (GeriEmiş)
+Brown-Kahve = 32
+Blue-Negative = 110
+
+S8 - Charge (Şarj/MalAlma/RawMeterialUpload)
+Brown-Kahve = 33
+Blue-Negative = 110
+
+S10 - Eject ( Itici) 
+Brown-Kahve = 35
+Blue-Negative = 110
+
+S13 - Holding Pressure
+Brown-Kahve = 37
+Blue-Negative = 110
