@@ -1,0 +1,48 @@
+//Askan Arduino Firmware.
+//Only Input View and Program log.
+A/Injection Machine
+--------------------------------------------------------------------------
+----------------       Hydrolic Valve inputs       -------------11 Piece--
+--------------------------------------------------------------------------
+S1 - Main Hydrolic valve 
+
+S2 - Clamp Close (Mengene Kapat)
+S3 - Clamp Open (Mengene Aç)
+S4 - Group forward (Grup ileri)
+S5 - Group Backward (Grup Geri)
+S6 - İnjection (Enjeksiyon)
+S7 - SuckBack (GeriEmiş)
+S8 - Charge (Şarj/MalAlma/RawMeterialUpload)
+
+S10 - Eject 
+S24 - Core in (Maça Açık) /////Useless-Kullanıma Gerek Yok
+S25 - Core Out (Maça Kapalı) /////Useless-Kullanıma Gerek Yok
+--------------------------------------------------------------------------
+----------------             Sensors  ı/o   --------------------19 Piece---
+--------------------------------------------------------------------------
+/Downside
+B34 - Oil Tempeture
+S13 - ----Unknow-----
+B37 - Product Sensor (Reflector input)(Maybe Robot Ready signal)
+S20 - ---Unknow---
+-------------------------------------------------------------------------
+/Left-Center Clamp Side
+B20 - Door (Kapı)
+B23 - Clamp Open Stop (Mengene açılması Durdurma Limitleme)
+B25 - Ejector Reset Stroke
+B30 - Eject Forward (İtici son limit)
+B31 - Eject Backward (İtici geri Limit Son yerinde)
+B33 - Core in (Maça içeride)/////Useless-Kullanıma Gerek Yok
+B34 - Core Out (Maça dışarıda)/////Useless-Kullanıma Gerek Yok
+B45 - Mould Stop 
+B44 - Mould Open Stop 
+------------------------------------------------------------------------
+RightSide-Group Side
+B61 - Clamp Close Moving Plate Closed /Security (Hareketli Plakanın Kalıp Kapandığında Sinyal vermesi)
+B63 - Ready Tempeture Mould/Heater (Isıtıcıların hazır olması)
+B26 - İnjection Holding pressure Position (Ütüleme Limiti)
+B27 - Screw Motor/Raw meterial size (Hammadde/Mal alma Limiti)
+B28 - injection Unit Retract/Group Backward Limit (Grup İleri geri Limit)
+B29 - Screw Retract Stop /Suckback (Geri emiş limiti) 
+
+
